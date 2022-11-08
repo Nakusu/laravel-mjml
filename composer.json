@@ -10,18 +10,18 @@
     ],
     "autoload": {
         "psr-4": {
-            "Nakusu\\LaravelMJML\\": "src/"
+            "Asahasrabuddhe\\LaravelMJML\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Nakusu\\LaravelMJML\\Tests\\": "tests/"
+            "Asahasrabuddhe\\LaravelMJML\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Nakusu\\LaravelMJML\\Providers\\MJMLServiceProvider"
+                "Asahasrabuddhe\\LaravelMJML\\Providers\\MJMLServiceProvider"
             ]
         }
     },
