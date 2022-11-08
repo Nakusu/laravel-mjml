@@ -1,6 +1,6 @@
 <?php
 
-namespace Asahasrabuddhe\LaravelMJML\Mail;
+namespace Nakusu\LaravelMJML\Mail;
 
 use Asahasrabuddhe\LaravelMJML\Process\MJML;
 use Illuminate\Mail\Mailable as IlluminateMailable;
