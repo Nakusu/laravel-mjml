@@ -1,26 +1,26 @@
 {
     "name": "asahasrabuddhe/laravel-mjml",
-    "description": "A package that enables using MJML with Laravel Mailables.",
+    "description": "A package which fork asahasrabuddhe/laravel-mjml with Html2Text fix",
     "authors": [
         {
-            "name": "Ajitem Sahasrabuddhe",
-            "email": "ajitem.s@outlook.com"
+            "name": "Nakus Aver",
+            "email": "nakusu35@hotmail.fr"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Asahasrabuddhe\\LaravelMJML\\": "src/"
+            "Nakusu\\LaravelMJML\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Asahasrabuddhe\\LaravelMJML\\Tests\\": "tests/"
+            "Nakusu\\LaravelMJML\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Asahasrabuddhe\\LaravelMJML\\Providers\\MJMLServiceProvider"
+                "Nakusu\\LaravelMJML\\Providers\\MJMLServiceProvider"
             ]
         }
     },
