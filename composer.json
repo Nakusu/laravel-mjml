@@ -1,6 +1,7 @@
 {
     "name": "nakusu/laravel-mjml",
     "description": "A package which fork asahasrabuddhe/laravel-mjml with Html2Text fix",
+    "type": "library",
     "authors": [
         {
             "name": "Nakusu Aver",
